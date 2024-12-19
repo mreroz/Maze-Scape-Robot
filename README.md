@@ -1,2 +1,2 @@
 # Maze Scape Robot
-Arduino Code of the robot in the Service Robotics Course
+Algorithm and control code for a robot to enter a maze, pick up 3 objects and leave the as fast as possible
